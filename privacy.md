@@ -1,5 +1,5 @@
 # tapit sayit - Privacy Policy
-Last updated: March 2, 2018
+Last updated: May 30, 2020
 
 Mina Makary built the tapit sayit app as a Commercial app. This SERVICE is provided by Mina Makary  and is intended for use as is.
 This page is used to inform website visitors regarding my policies with the collection, use, and
